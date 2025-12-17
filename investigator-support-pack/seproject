@@ -1,0 +1,12 @@
+# WARNING: If this file is deleted, Strange Eons will no longer
+# see this as a project/task folder!
+selected-members = :seeker/skills/Precision Aptitude.eon
+first-row = 5
+open-folders = \
+    :guardian:guardian/asset:guardian/event:guardian/skill:mystic:mystic/asset:mystic\
+    /event:mystic/skill:neutral:neutral/asset:rogue:rogue/asset:rogue/event:rogue/ski\
+    ll:seeker:seeker/asset:seeker/event:seeker/skills:survivor:survivor/asset:survivo\
+    r/events:survivor/skill
+notes = 
+res-id = rica
+type = PROJECT
