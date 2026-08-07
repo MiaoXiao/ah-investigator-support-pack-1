@@ -1,8 +1,11 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :neutral
+selected-members = 
 first-row = 0
-open-folders = 
+open-folders = \
+    :guardian:guardian/asset:guardian/skill:mystic:mystic/asset:mystic/event:mystic/s\
+    kill:neutral:rogue:rogue/asset:rogue/event:rogue/skill:seeker:seeker/asset:seeker\
+    /event:seeker/skills:survivor:survivor/asset:survivor/events:survivor/skill
 notes = 
 res-id = rica
 type = PROJECT
